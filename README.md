@@ -1,3 +1,4 @@
-# cec
+# SocialNetworkShinyApp
+A shiny app to plot social network using igraph
 
-This is personal database platform. 
+https://kehaowu.shinyapps.io/SocialNetwork/
