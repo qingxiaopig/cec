@@ -1,4 +1,3 @@
-# SocialNetworkShinyApp
-A shiny app to plot social network using igraph
+A R shiny application for company information.
 
-https://kehaowu.shinyapps.io/SocialNetwork/
+Text analysis for news and network for company information.
